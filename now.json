@@ -3,10 +3,7 @@
   "builds": [
     {
       "src": "index.php",
-      "use": "now-php",
-      "config": {
-        "composer": true
-      }
+      "use": "now-php"
     }
   ]
 }
