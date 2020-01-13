@@ -1,9 +1,6 @@
 {
   "version": 2,
-  "name": "quotes",
-  "functions": {
-    "*.php": {
-      "runtime": "now-php@0.0.5"
-    }
-  }
+  "builds": [
+    { "src": "index.php", "use": "now-php" }
+  ]
 }
