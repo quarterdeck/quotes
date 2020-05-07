@@ -536,7 +536,6 @@ $quotes = [
     ["Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.","Steve Jobs"],
     ["Don't find fault, find a remedy.","Henry Ford"],
     ["Effective leadership is putting first things first. Effective management is discipline, carrying it out.","Stephen Covey"],
-    ["Enlightened leadership is spiritual if we understand spirituality not as some kind of religious dogma or ideology but as the domain of awareness where we experience values like truth, goodness, beauty, love and compassion, and also intuition, creativity, insight and focused attention.","Deepak Chopra"],
     ["Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them.","Paul Hawken"],
     ["High expectations are the key to everything.","Sam Walton"],
     ["Hold yourself responsible for a higher standard than anybody expects of you. Never excuse yourself.","Henry Ward Beecher"],
@@ -550,7 +549,6 @@ $quotes = [
     ["Leadership and learning are indispensable to each other.","John F. Kennedy"],
     ["Leadership is solving problems. The day soldiers stop bringing you their problems is the day you have stopped leading them. They have either lost confidence that you can help or concluded you do not care. Either case is a failure of leadership.","Colin Powell"],
     ["Leadership is the capacity to translate vision into reality.","Warren Bennis"],
-    ["Leadership to me means duty, honor, country. It means character, and it means listening from time to time.","George W. Bush"],
     ["Management is doing things right; leadership is doing the right things.","Peter Drucker"],
     ["Only the guy who isn't rowing has time to rock the boat.","Jean-Paul Sartre"],
     ["Outstanding leaders go out of their way to boost the self-esteem of their personnel. If people believe in themselves, it's amazing what they can accomplish.","Sam Walton"],
@@ -593,4 +591,5 @@ $quotes = [
     ["When an archer is shooting for nothing, he has all his skill. If he shoots for a brass buckle, he is already nervous. If he shoots for a prize of gold, he goes blind or sees two targets. He is out of his mind. His skill has not changed. But the prize divides him. He cares. He thinks more of winning than of shooting And the need to win drains him of power.","Chuang Tzu"],
     ["The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.","William Arthur Ward"],
     ["Managers manage the known, leaders manage the unknown.","Tim Armstrong"],
+    ["I hate that man. I must get to know him better.","Abraham Lincoln"],
 ];
