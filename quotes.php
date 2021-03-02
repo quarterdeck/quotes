@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Inspiration is for amateurs. The rest of us just show up and get to work. Every great idea I’ve ever had grew out of work itself.","Chuck Close"],
 	["Give me six hours to chop down a tree and I will spend the first four sharpening the axe.","Abraham Lincoln"],
 	["We are what we repeatedly do. Excellence, then, is not an act, but a habit.","Aristotle"],
 	["You see things; and you say Why? But I dream things that never were; and I say Why not?","George Bernard Shaw"],
