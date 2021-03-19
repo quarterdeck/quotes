@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Bad companies are destroyed by crisis, Good companies survive them, Great companies are improved by them.","Andy Grove"],
 	["We do not rise to the level of our expectations. We fall to the level of our training.","Archilochus"],
 	["Culture eats strategy for breakfast.","Peter Drucker"],
 	["In theory, theory and practice are the same. In practice they're not.","Unkown"],
