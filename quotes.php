@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Amateurs talk about tactics, but professionals study logistics.","Gen. Robert H. Barrow"],
 	["Easy choices, hard life. Hard choices easy life.","Jerzy Gregorek"],
 	["Bad companies are destroyed by crisis, Good companies survive them, Great companies are improved by them.","Andy Grove"],
 	["We do not rise to the level of our expectations. We fall to the level of our training.","Archilochus"],
