@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["If you don't know where you're going, any road'll take you there.","George Harrison"],
 	["Amateurs talk about tactics, but professionals study logistics.","Gen. Robert H. Barrow"],
 	["Easy choices, hard life. Hard choices easy life.","Jerzy Gregorek"],
 	["Bad companies are destroyed by crisis, Good companies survive them, Great companies are improved by them.","Andy Grove"],
