@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["If you want to go fast, go alone. If you want to go far, go together.","African Proverb"],
 	["If you don't know where you're going, any road'll take you there.","George Harrison"],
 	["Amateurs talk about tactics, but professionals study logistics.","Gen. Robert H. Barrow"],
 	["Easy choices, hard life. Hard choices easy life.","Jerzy Gregorek"],
