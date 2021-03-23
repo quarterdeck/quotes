@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["The best time to plant a tree was 20 years ago. The second best time is now.","Chinese Proverb"],
 	["Uneasy lies the head that wears a crown.","Shakespeare"],
 	["If you want to go fast, go alone. If you want to go far, go together.","African Proverb"],
 	["If you don't know where you're going, any road'll take you there.","George Harrison"],
