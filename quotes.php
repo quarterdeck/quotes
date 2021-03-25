@@ -13,7 +13,7 @@ $quotes = [
 	["Bad companies are destroyed by crisis, Good companies survive them, Great companies are improved by them.","Andy Grove"],
 	["We do not rise to the level of our expectations. We fall to the level of our training.","Archilochus"],
 	["Culture eats strategy for breakfast.","Peter Drucker"],
-	["In theory, theory and practice are the same. In practice they're not.","Unkown"],
+	["In theory, theory and practice are the same. In practice they're not.","Unknown"],
 	["I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.","Bruce Lee"],
 	["Inspiration is for amateurs. The rest of us just show up and get to work. Every great idea I’ve ever had grew out of work itself.","Chuck Close"],
 	["Give me six hours to chop down a tree and I will spend the first four sharpening the axe.","Abraham Lincoln"],
