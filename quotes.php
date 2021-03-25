@@ -1,5 +1,9 @@
 <?php
 $quotes = [
+	["I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'","Muhammad Ali"],
+	["Everyone has a plan until they get punched in the face.","Mike Tyson"],
+	["It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward.","Rocky Balboa"],
+	["You have power over your mind - not outside events. Realise this, and you will find strength.","Marcus Aurelius"],
 	["The best time to plant a tree was 20 years ago. The second best time is now.","Chinese Proverb"],
 	["Uneasy lies the head that wears a crown.","Shakespeare"],
 	["If you want to go fast, go alone. If you want to go far, go together.","African Proverb"],
