@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Just because it’s not your fault doesn’t mean it’s not your responsibility.","Kevin Kelly"],
 	["Show me the incentive and I will show you the outcome.","Charlie Munger"],
 	["I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'","Muhammad Ali"],
 	["Everyone has a plan until they get punched in the face.","Mike Tyson"],
