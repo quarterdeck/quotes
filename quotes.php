@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Standing still is the fastest way of moving backwards.","Lauren Bacall"],
 	["A goal without a deadline is just a dream.","Napolean Hill"],
 	["Just because it’s not your fault doesn’t mean it’s not your responsibility.","Kevin Kelly"],
 	["Show me the incentive and I will show you the outcome.","Charlie Munger"],
