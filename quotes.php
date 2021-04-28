@@ -1,5 +1,7 @@
 <?php
 $quotes = [
+	["Management is done with power and authority, compelling others to do what we need them to do when we need them to do it. Leadership on the other hand always involves voluntary compliance. It always involves people eagerly following the leader.","Seth Godin"],
+	["Wise men speak because they have something to say; fools because they have to say something.","Plato"],
 	["Once I did bad and that I heard ever. Twice I did good, but that I heard never.","Dale Carnegie"],
 	["Standing still is the fastest way of moving backwards.","Lauren Bacall"],
 	["A goal without a deadline is just a dream.","Napolean Hill"],
@@ -62,7 +64,7 @@ $quotes = [
 	["The best way to make your dreams come true is to wake up.","Paul Valery"],
 	["You cannot dream yourself into a character; you must hammer and forge yourself one.","Henry David Thoreau"],
 	["Do not follow where the path may lead. Go instead where there is no path and leave a trail.","Harold McAlindon"],
-	["Leadership: The art of getting someone else to do something you want done because he wants to do it.","Dwight D. Eisenhower"],
+	["Leadership is the art of getting someone else to do something you want done because he wants to do it.","Dwight D. Eisenhower"],
 	["What chance gathers she easily scatters. A great person attracts great people and knows how to hold them together.","Johann Wolfgang Von Goethe"],
 	["The real leader has no need to lead - he is content to point the way.","Henry Miller"],
 	["Not the cry, but the flight of a wild duck, leads the flock to fly and follow.","Chinese Proverb"],
