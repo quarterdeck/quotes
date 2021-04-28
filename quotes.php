@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["Once I did bad and that I heard ever. Twice I did good, but that I heard never.","Dale Carnegie"],
 	["Standing still is the fastest way of moving backwards.","Lauren Bacall"],
 	["A goal without a deadline is just a dream.","Napolean Hill"],
 	["Just because it’s not your fault doesn’t mean it’s not your responsibility.","Kevin Kelly"],
