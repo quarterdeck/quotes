@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["An army of donkeys led by a lion is better than an army of lions led by a donkey.","Genghis Khan"],
 	["Uneasy lies the head that wears a crown.","Shakespeare"],
 	["Management is done with power and authority, compelling others to do what we need them to do when we need them to do it. Leadership on the other hand always involves voluntary compliance. It always involves people eagerly following the leader.","Seth Godin"],
 	["Wise men speak because they have something to say; fools because they have to say something.","Plato"],
