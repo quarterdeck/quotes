@@ -1,5 +1,6 @@
 <?php
 $quotes = [
+	["A diplomat is a person who can tell you to go to hell in such a way that you actually look forward to the trip.","Anonymous"],
 	["An army of donkeys led by a lion is better than an army of lions led by a donkey.","Genghis Khan"],
 	["95% of success is showing up.","Woody Allen"],
 	["Uneasy lies the head that wears a crown.","Shakespeare"],
