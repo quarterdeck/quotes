@@ -209,6 +209,7 @@ $quotes = [
 	["Never discourage anyone who continually makes progress, no matter how slow.","Plato"],
 	["Change almost never fails because it's too early. It almost always fails because it's too late","Seth Godin"],
 	["Management is doing things right; leadership is doing the right things.","Peter Drucker"],
+	["Efficiency is doing things right; effectiveness is doing the right things.","Peter Drucker"],
 	["Personal leadership is the process of keeping your vision and values before you and aligning your life to be congruent with them.","Stephen Covey"],
 	["Nearly all men can stand adversity, but if you want to test a man's character, give him power.","Abraham Lincoln"],
 	["Unleash the potential that is in another and you unleash the potential that is in you.","Matshona Dhliwayo"],
