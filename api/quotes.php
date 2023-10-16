@@ -232,4 +232,5 @@ $quotes = [
 	["When an archer is shooting for nothing, he has all his skill. If he shoots for a brass buckle, he is already nervous. If he shoots for a prize of gold, he goes blind or sees two targets. He is out of his mind. His skill has not changed. But the prize divides him. He cares. He thinks more of winning than of shooting And the need to win drains him of power.","Chuang Tzu"],
 	["The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.","William Arthur Ward"],
 	["Managers manage the known, leaders manage the unknown.","Tim Armstrong"],
+	["Magic is just someone spending more time on something than anyone else might reasonably expect.","Teller"],
 ];
